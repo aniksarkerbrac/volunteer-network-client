@@ -1,0 +1,52 @@
+.confirm-task-form {
+    width: 570px;
+    height:auto;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: auto;
+    margin-top: 40px;
+    padding:20px 20px 20px 20px;
+    position:relative;
+}
+
+.confirm-task-form input {
+    width: 460px;
+}
+
+label {
+    font-family: Montserrat !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    line-height: 22px;
+    color: #000000 !important;
+}
+
+.submit-btn {
+    height: 50px;
+    margin-top: 30px;
+    background: #3F90FC;
+    font-family: Montserrat;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width:460px;
+}
+
+.login-page-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-top: 36px;
+    margin-bottom: 0;
+}
+
+.login-page-inner {
+    margin: 0 55px;
+}
+
+
